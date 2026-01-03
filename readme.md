@@ -9,3 +9,10 @@ https://github.com/hyperledger/fabric/releases?q=2.5&expanded=true
 ```
 hyperledger-fabric-linux-amd64-2.5.14.tar.gz
 ```
+
+3. Kemudian extract filenya
+```
+tar -xvzf hyperledger-fabric-linux-amd64-2.5.14.tar.gz
+```
+
+4. 
