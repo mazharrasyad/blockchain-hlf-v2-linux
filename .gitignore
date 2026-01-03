@@ -1,2 +1,7 @@
 fabric-samples/
-e-voting-system/backend/node_modules/
+aplikasi/
+dokumen/bin/
+dokumen/builders/
+dokumen/config/
+dokumen/test-network/
+dokumen/hyperledger-fabric-linux-amd64-2.5.14.tar.gz
